@@ -22,8 +22,6 @@ h = t_layer*t_ply/2
 #Initial Data Input of laminate 
 
 
-
-
 Nx = 25000 # in N/m
 Ny = 0 # in N/m
 Nz = 0 # in N/m
